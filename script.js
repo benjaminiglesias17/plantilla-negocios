@@ -1,7 +1,7 @@
 
 const config = {
-  nombre: "La Huerta",
-  rubro: "Verdulería",
+  nombre: "Mi Negocio",
+  rubro: "Comercio",
   titulo: "Lo fresco se<br>disfruta <em>más.</em>",
   descripcion: "Frutas y verduras frescas para llenar tu mesa de sabor.",
   textoSuperior: "FRESCURA TODOS LOS DÍAS",
