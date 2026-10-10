@@ -47,7 +47,14 @@ productos: [
   verde: "#2f6b3f",
   verdeClaro: "#e8f3e8",
   naranja: "#f29a38"
-},
+}
+};
+
+// Colores del diseño
+document.documentElement.style.setProperty(
+  "--green",
+  config.colores.verde
+);
 
 // Colores del diseño
 document.documentElement.style.setProperty(
