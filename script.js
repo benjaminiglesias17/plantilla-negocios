@@ -15,9 +15,11 @@ const config = {
     "Escribinos o encontranos en el mapa. ¡Te esperamos!",
 
   
-tituloProductos: "Color que hace <em>bien.</em>",
-subtituloProductos: "NUESTRA SELECCIÓN",
-descripcionProductos: "Productos para disfrutar<br>todos los días.",
+
+tituloProductos: "Nuestros productos y servicios",
+subtituloProductos: "Descubrí lo que tenemos para ofrecerte",
+descripcionProductos: "Explorá nuestra selección y consultanos por WhatsApp.",
+
 
 
 productos: [
@@ -42,11 +44,10 @@ productos: [
 ],
 
   colores: {
-    verde: "#234c38",
-    verdeClaro: "#e5eddf",
-    naranja: "#d58a4c"
-  }
-};
+  verde: "#2f6b3f",
+  verdeClaro: "#e8f3e8",
+  naranja: "#f29a38"
+},
 
 // Colores del diseño
 document.documentElement.style.setProperty(
