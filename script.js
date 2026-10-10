@@ -97,6 +97,18 @@ document.getElementById("hero-button").firstChild.textContent =
 document.getElementById("hero-note").textContent =
   config.textoInferior;
 
+document.getElementById("hero-image").src =
+  config.fotoPortada;
+
+document.getElementById("hero-image").alt =
+  config.altFotoPortada;
+
+document.getElementById("hero-image-title").textContent =
+  config.tituloFoto;
+
+document.getElementById("hero-image-note").textContent =
+  config.subtituloFoto;
+
 document.getElementById("products-eyebrow").textContent =
   config.subtituloProductos;
 
