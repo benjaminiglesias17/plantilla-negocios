@@ -2,11 +2,11 @@
 const config = {
   nombre: "Mi Negocio",
   rubro: "Comercio",
-  titulo: "Lo fresco se<br>disfruta <em>más.</em>",
-  descripcion: "Frutas y verduras frescas para llenar tu mesa de sabor.",
-  textoSuperior: "FRESCURA TODOS LOS DÍAS",
-  textoBoton: "CONOCÉ NUESTROS PRODUCTOS",
-  textoInferior: "Fresco, natural y de todos los días",
+  titulo: "Todo lo que tu negocio necesita",
+  descripcion: "Conocé nuestros productos y contactanos fácilmente por WhatsApp.",
+  textoSuperior: "BIENVENIDO A NUESTRO NEGOCIO",
+  textoBoton: "Contactanos por WhatsApp",
+  textoInferior: "Estamos para ayudarte.",
 
   whatsapp: "",
   googleMaps: "",
