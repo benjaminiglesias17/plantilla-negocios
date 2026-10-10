@@ -7,6 +7,11 @@ const config = {
   textoSuperior: "BIENVENIDO A NUESTRO NEGOCIO",
   textoBoton: "Contactanos por WhatsApp",
   textoInferior: "Estamos para ayudarte.",
+  fotoPortada: "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1000&q=85",
+  altFotoPortada: "Espacio de trabajo moderno",
+  tituloFoto: "Tu negocio",
+  subtituloFoto: "Un espacio para crecer",
+
 
   whatsapp: "",
   googleMaps: "",
