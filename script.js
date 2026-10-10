@@ -19,24 +19,25 @@ tituloProductos: "Color que hace <em>bien.</em>",
 subtituloProductos: "NUESTRA SELECCIÓN",
 descripcionProductos: "Productos para disfrutar<br>todos los días.",
 
+
 productos: [
   {
-    categoria: "FRUTAS",
-    nombre: "Dulces y naturales",
-    foto: "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=700&q=85",
-    alt: "Frutas frescas"
+    categoria: "DESTACADOS",
+    nombre: "Nuestro producto estrella",
+    foto: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=700&q=85",
+    alt: "Productos destacados"
   },
   {
-    categoria: "VERDURAS",
-    nombre: "Frescura en tu mesa",
-    foto: "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=85",
-    alt: "Verduras frescas"
+    categoria: "NOVEDADES",
+    nombre: "Descubrí lo nuevo",
+    foto: "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=700&q=85",
+    alt: "Novedades del negocio"
   },
   {
-    categoria: "VIDA NATURAL",
-    nombre: "Ideas para disfrutar",
-    foto: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=700&q=85",
-    alt: "Ensalada con ingredientes frescos"
+    categoria: "RECOMENDADOS",
+    nombre: "Elegidos para vos",
+    foto: "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=700&q=85",
+    alt: "Selección de productos"
   }
 ],
 
